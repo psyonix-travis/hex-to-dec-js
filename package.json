@@ -1,0 +1,35 @@
+{
+  "name": "hex-to-dec",
+  "version": "1.0.0",
+  "author": "Travis Wright <twright9999@gmail.com>",
+  "description": "An arbitrary length integer library for Javascript",
+  "contributors": [],
+  "bin": {},
+  "scripts": {
+    "test": ""
+  },
+  "main": "./HexToDec",
+  "repository": {
+    "type": "git",
+    "url": "git+https://psyonix-travis@github.com/psyonix-travis/hex-to-dec-js.git"
+  },
+  "keywords": [
+    "math",
+    "big",
+    "bignum",
+    "bigint",
+    "biginteger",
+    "integer",
+    "arbitrary",
+    "precision",
+    "arithmetic"
+  ],
+  "devDependencies": {},
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "_from": "hex-to-dec@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.15.5",
+  "_nodeVersion": "4.4.5"
+}
